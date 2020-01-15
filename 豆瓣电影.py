@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Dec 26 14:08:40 2019
-前150电影信息
-详情链接 图片链接 影片中文名 外国名 评分 评价数 概况 导演 主演 年份 地区 类别
-按评分排名 top10评分柱状图
-评论数第一 评论内容词云
-@author: Mario
+Created on 2020
+前250电影信息
+详情链接 图片链接 影片中文名 外国名 
+@author: F
 """
 import time
 import requests
